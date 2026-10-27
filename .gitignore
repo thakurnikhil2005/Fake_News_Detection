@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# API keys and environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Saved machine learning models
+models/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
